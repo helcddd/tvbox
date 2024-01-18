@@ -1,6 +1,4 @@
 CCTV综合,#genre#
-CCTV1,http://124.222.142.65:5678/zhibo/index.php?id=cctv1
-CCTV2,http://124.222.142.65:5678/zhibo/index.php?id=cctv2
 CCTV3,http://124.222.142.65:5678/zhibo/index.php?id=cctv3
 CCTV4,http://124.222.142.65:5678/zhibo/index.php?id=cctv4
 CCTV5,http://124.222.142.65:5678/zhibo/index.php?id=cctv5
