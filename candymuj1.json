@@ -9,7 +9,15 @@
     {"key":"csp_DoubanForTVBox","name":"[自用--原CandyMuj]","type":3,"api":"csp_DoubanForTVBox","searchable":0},
     {"key":"豆瓣(js)","name":"💥豆瓣","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1, "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/drpy.js"},
 
-    {"key":"csp_Live2Vod_2","name":"💕电视直播(远程配置版)","type":3,"api":"csp_Live2Vod","searchable":0,"ext":"./conf/live.json"},
+    {"key":"csp_Live2Vod_2","name":"💕电视直播(远程配置版)","type":3,"api":"csp_Live2Vod","searchable":0,"ext":"https://raw.fgit.cf/helcddd/tvbox/main/live.json"},
+    {"key":"我的哔哩(js)","name":"💥哔哩合集","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1, "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/我的哔哩.js"},
+    {"key":"爱看(js)","name":"💥爱看","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1, "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/爱看.js"},
+    {"key":"厂长(js)","name":"💥厂长","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1, "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/厂长资源.js"},
+    {"key":"低端(js)","name":"💥低端","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1, "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/ddys.js"},
+    {"key":"两个BT(js)","name":"💥两个BT","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1, "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/两个BT.js"},
+    {"key":"怡萱动漫(js)","name":"💥怡萱动漫","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1, "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/怡萱动漫.js"},
+    {"key":"子子影视(js)","name":"💥子子影视","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1, "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/子子影视.js"},
+
     
     {"key":"csp_CandyMuj_freeok","name":"💖FreeOK","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1},
     {"key":"csp_WoGG","name":"💖玩偶影视4K","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":{"token":"CandyMuj","filter":"./conf/wogg.json"}},
@@ -56,7 +64,6 @@
     {"key":"drpy_js_有声绘本网","name":"💥有声绘本(少儿)","type":3,"api":"https://ghss.lan2wan.top/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://ghss.lan2wan.top/raw.githubusercontent.com/gaotianliuyun/gao/master/js/有声绘本网.js"},    
     {"key":"csp_Local","name":"💕本地","type":3,"api":"csp_Local","searchable":0,"changeable":0},
     {"key":"csp_AList","name":"💕AList","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":"./conf/alist.json"},
-    // {"key":"csp_WebDAV","name":"💕WebDAV","type":3,"api":"csp_WebDAV","searchable":1,"changeable":0,"ext":"./conf/webdav.json"},
     {"key":"csp_zhibo_douyu","name":"💥斗鱼直播","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js"},
     {"key":"csp_zhibo_huya","name":"💥虎牙直播","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js"},
     {"key":"csp_zhibo_bili","name":"💥哔哩直播","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/哔哩直播.js"},
@@ -65,18 +72,10 @@
     {"key":"drpy_js_JRKAN直播","name":"💥JRKAN直播(体育)","type":3,"api":"https://ghss.lan2wan.top/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://ghss.lan2wan.top/raw.githubusercontent.com/gaotianliuyun/gao/master/js/JRKAN直播.js"},
     {"key":"drpy_js_抓饭体育","name":"💥抓饭体育(体育)","type":3,"api":"https://ghss.lan2wan.top/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://ghss.lan2wan.top/raw.githubusercontent.com/gaotianliuyun/gao/master/js/抓饭体育.js"},
 
-    {"key":"我的哔哩(js)","name":"💥哔哩合集","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1, "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/我的哔哩.js"},
-    {"key":"爱看(js)","name":"💥爱看","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1, "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/爱看.js"},
-    {"key":"厂长(js)","name":"💥厂长","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1, "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/厂长资源.js"},
-    {"key":"低端(js)","name":"💥低端","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1, "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/ddys.js"},
-    {"key":"两个BT(js)","name":"💥两个BT","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1, "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/两个BT.js"},
-    {"key":"怡萱动漫(js)","name":"💥怡萱动漫","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1, "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/怡萱动漫.js"},
-    {"key":"子子影视(js)","name":"💥子子影视","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1, "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/子子影视.js"},
     {"key":"push_agent","name":"💤推送(播放页链接或磁力)","type":3,"api":"csp_PushAgent","searchable":0}
   ],
 
-
-
+  
   "parses": [
     //{"name":"Web聚合","type":3,"url":"Web"},
     {"name":"Json聚合","type":3,"url":"Demo"},
