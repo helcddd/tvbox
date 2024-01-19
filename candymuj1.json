@@ -14,7 +14,9 @@
     {"key":"豆瓣(js)","name":"💥豆瓣","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1, "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/drpy.js"},
 
     {"key":"csp_Live2Vod_1","name":"💕电视直播","type":3,"api":"csp_Live2Vod","searchable":0,"ext":"❤️自用$https://raw.fgit.cf/helcddd/tvbox/main/tv.txt#❤️肥羊•YY轮播$https://live.freetv.top/yylunbo.m3u?url=https://lunbo.freetv.top#❤️肥羊•斗鱼一起看$https://live.freetv.top/douyuyqk.m3u#❤️肥羊•虎牙一起看$https://live.freetv.top/huyayqk.m3u#❤️肥羊•哔哩哔哩直播$https://www.goodiptv.club/bililive.m3u#❤️饭太硬$https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt#❤️16万•MV$https://fongmi.cachefly.net/lystv/short/main/影视/tvb/MTV.txt#❤️你懂的$https://raw.fgit.cf/helcddd/tvbox/main/spider/ddd1.txt"},
-    
+    {"key":"我的哔哩(js)","name":"💥哔哩合集","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1, "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/我的哔哩.js"},
+    {"key":"csp_Bili","name":"💕哔哩合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":{"json":"https://tv.lan2wan.top/conf/bili.json"}},
+
     {"key":"csp_CandyMuj_freeok","name":"💖FreeOK","type":3,"api":"csp_CandyMuj_freeok","searchable":1,"quickSearch":0,"filterable":1},
     {"key":"csp_WoGG","name":"💖玩偶影视4K","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":{"token":"CandyMuj","filter":"https://agit.ai/butterfly/gaotianliuyun/raw/branch/master/json/wogg.json"}},
     {"key":"csp_WoGG1","name":"💖玩偶影视4K-备1","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹","jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar"},
@@ -58,7 +60,6 @@
 
     {"key":"csp_AppYsV2_3","name":"💕速看100[V2]","type":3,"api":"csp_AppYsV2","searchable":1,"ext":"https://sk100.tv/api.php/app/"},
     {"key":"csp_AppYsV2_4","name":"💕迪迪","type":3,"api":"csp_AppYsV2","searchable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
-    {"key":"csp_Bili","name":"💕哔哩合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":{"json":"https://tv.lan2wan.top/conf/bili.json"}},
     // {"key":"csp_Bilituys","name":"💕哔哩兔影视","type":3,"api":"csp_Bilituys","searchable":1},
     {"key":"csp_Czsapp","name":"💕厂长","type":3,"api":"csp_Czsapp","searchable":1},
     {"key":"csp_Ddrk","name":"💕低端影视","type":3,"api":"csp_Ddrk","click":"ddys.pro;#vjsp > button","searchable":1},
@@ -101,7 +102,6 @@
     {"key":"drpy_js_JRKAN直播","name":"💥JRKAN直播(体育)","type":3,"api":"https://ghss.lan2wan.top/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://ghss.lan2wan.top/raw.githubusercontent.com/gaotianliuyun/gao/master/js/JRKAN直播.js"},
     {"key":"drpy_js_抓饭体育","name":"💥抓饭体育(体育)","type":3,"api":"https://ghss.lan2wan.top/raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://ghss.lan2wan.top/raw.githubusercontent.com/gaotianliuyun/gao/master/js/抓饭体育.js"},
 
-    {"key":"我的哔哩(js)","name":"💥哔哩合集","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1, "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/我的哔哩.js"},
     {"key":"爱看(js)","name":"💥爱看","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1, "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/爱看.js"},
     {"key":"厂长(js)","name":"💥厂长","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1, "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/厂长资源.js"},
     {"key":"低端(js)","name":"💥低端","type":3,"api":"https://www.agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":1, "ext": "https://www.agit.ai/fantaiying/dr_py/raw/branch/main/js/ddys.js"},
