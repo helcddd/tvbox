@@ -1,0 +1,46 @@
+[
+  {
+    "name": "♥肥羊•YY轮播",
+    "url": "https://live.freetv.top/yylunbo.m3u?url=https://lunbo.freetv.top"
+  },
+  {
+    "name": "♥肥羊•斗鱼一起看",
+    "url": "https://live.freetv.top/douyuyqk.m3u"
+  },
+  {
+    "name": "♥肥羊•虎牙一起看",
+    "url": "https://live.freetv.top/huyayqk.m3u"
+  },
+  {
+    "name": "♥肥羊•精选IPV6源",
+    "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/GSYD-IPV6.m3u"
+  },
+    {
+    "name": "♥肥羊•BESTV源",
+    "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u"
+  },
+    {
+    "name": "♥肥羊•SXG源",
+    "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u"
+  },
+    {
+    "name": "♥肥羊•YQGD源",
+    "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u"
+  },
+    {
+    "name": "♥肥羊•4K/8K源",
+    "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u"
+  },
+    {
+    "name": "♥肥羊•MSP源",
+    "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u"
+  },
+  {
+    "name": "♥饭太硬•综合",
+    "url": "https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt"
+  }，
+  {
+    "name": "♥16万•MV",
+    "url": "https://fongmi.cachefly.net/lystv/short/main/影视/tvb/MTV.txt"
+  }
+]
