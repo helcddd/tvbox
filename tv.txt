@@ -1,4 +1,4 @@
-CCTV综合,#genre#
+河北IPTV,#genre#
 CCTV-1高清,http://36.129.204.122:50001/hls/1/index.m3u8
 CCTV-2高清,http://36.129.204.122:50001/hls/2/index.m3u8
 CCTV-3高清,http://36.129.204.122:50001/hls/3/index.m3u8
@@ -17,7 +17,6 @@ CCTV-15高清,http://36.129.204.122:50001/hls/15/index.m3u8
 CCTV-17高清,http://36.129.204.122:50001/hls/17/index.m3u8
 CCTV-5+高清,http://36.129.204.122:50001/hls/18/index.m3u8
 
-地方,#genre#
 河北卫视高清,http://36.129.204.122:50001/hls/19/index.m3u8
 河北经济生活高清,http://36.129.204.122:50001/hls/20/index.m3u8
 河北都市高清,http://36.129.204.122:50001/hls/21/index.m3u8
@@ -239,8 +238,6 @@ CHC家庭影院,http://36.129.204.120:880/CCN153.m3u8
 卫生健康,http://172.16.51.254:880/huahan121.m3u8
 求索记录,http://36.129.204.120:880/CCN22.m3u8
 女性时尚,http://36.129.204.120:880/dx105.m3u8
-
-
 
 常看,#genre#
 武林外传,https://lunbo.freetv.top/yy/21092633
