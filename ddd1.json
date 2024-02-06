@@ -11,6 +11,7 @@
 {"key":"Biliych","name":"🅱哔哔┃歌曲","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json"},
 {"key":"csp_xuexi","name":"🅱哔哩┃学习园地","type":"3","api":"csp_Bili","searchable":"0","quickSearch":"0","style":{"type":"rect","ratio":1.597},"filterable":"1","changeable":0,"ext":"./js/xuexi.json"},
 {"key":"短剧","name":"短剧┃合集","type":3,"api":"csp_Duanju","searchable":1,"changeable":0,"style":{"type":"rect","ratio":1.433},"timeout":30},
+{"key":"csp_xBPQ_短视频","name":"短视频┃聚合[XBPQ]","type":3,"api":"csp_XBPQ","changeable":0,"ext":"./js/短视频.json"},
 {"key":"一起看 ","name":"一起┃App","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"DiDuan","name":"低端┃直连","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Ying","name":"樱花┃动漫","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1}  
