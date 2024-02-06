@@ -8,6 +8,11 @@
 {"key":"Biliych","name":"🅱哔哔┃歌曲","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json"},
 {"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"}
 
+
+
+],
+"lives":[
+{"name":"❤️自用","type":0,"playerType":1,"url":"https://raw.gitmirror.com/helcddd/tvbox/main/tv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://epg.112114.xyz/logo/{name}.png"}
 ],
 "parses":[
 {"name":"聚合","type":3,"url":"Demo"},
@@ -33,8 +38,5 @@
 {"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},
 {"name":"nm","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
 {"name":"cl","hosts":["magnet"],"regex":["最新","直播","更新"]}
-],
-"lives":[
-{"name":"❤️自用","type":0,"playerType":1,"url":"https://raw.gitmirror.com/helcddd/tvbox/main/tv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://epg.112114.xyz/logo/{name}.png"}
 ]
 }
