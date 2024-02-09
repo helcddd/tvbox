@@ -4,7 +4,7 @@
 "sites":[
 {"key":"豆豆","name":"🌕公众号【神秘的哥哥们】","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
   
-{"key":"csp_Live2Vod_1","name":"💕电视直播","type":3,"api":"csp_Live2Vod","searchable":0,"ext":"❤️自用$https://raw.gitmirror.com/helcddd/tvbox/main/tv.txt#❤️肥羊•YY轮播$https://live.freetv.top/yylunbo.m3u?url=https://lunbo.freetv.top#❤️肥羊•斗鱼一起看$https://live.freetv.top/douyuyqk.m3u#❤️肥羊•虎牙一起看$https://live.freetv.top/huyayqk.m3u#❤️肥羊•哔哩直播$https://www.goodiptv.club/bililive.m3u#❤️饭太硬综合$https://xhdwc.tk/tvlive.txt#❤️16万•MV$https://fongmi.cachefly.net/lystv/short/main/影视/tvb/MTV.txt#❤️你懂的$https://raw.gitmirror.com/helcddd/tvbox/main/spider/ddd1.txt","jar":"https://ghss.lan2wan.top/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;43a324ece09417cd64d9056029550c3e"},
+{"key":"csp_Live2Vod_1","name":"💕电视直播","type":3,"api":"csp_Live2Vod","searchable":0,"ext":"❤️自用$https://gh.con.sh/https://raw.githubusercontent.com/helcddd/tvbox/main/tv.txt#❤️肥羊•YY轮播$https://live.freetv.top/yylunbo.m3u?url=https://lunbo.freetv.top#❤️肥羊•斗鱼一起看$https://live.freetv.top/douyuyqk.m3u#❤️肥羊•虎牙一起看$https://live.freetv.top/huyayqk.m3u#❤️肥羊•哔哩直播$https://www.goodiptv.club/bililive.m3u#❤️饭太硬综合$https://xhdwc.tk/tvlive.txt#❤️16万•MV$https://fongmi.cachefly.net/lystv/short/main/影视/tvb/MTV.txt#❤️你懂的$https://raw.gitmirror.com/helcddd/tvbox/main/spider/ddd1.txt","jar":"https://ghss.lan2wan.top/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;43a324ece09417cd64d9056029550c3e"},
 {"key":"Bili","name":"🅱哔哔┃合集","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/bilibili.json"},
 {"key":"Biliych","name":"🅱哔哔┃歌曲","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json"},
   
@@ -107,7 +107,7 @@
 {"name":"cl","hosts":["magnet"],"regex":["最新","直播","更新"]}
 ],
 "lives":[
-  {"name":"❤️自用","type":0,"playerType":1,"url":"https://raw.gitmirror.com/helcddd/tvbox/main/tv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://epg.112114.xyz/logo/{name}.png"},
+  {"name":"❤️自用","type":0,"playerType":1,"url":"./tv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://epg.112114.xyz/logo/{name}.png"},
 {"name":"SAO0","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"IPV6","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 ]
