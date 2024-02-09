@@ -107,7 +107,7 @@
 {"name":"cl","hosts":["magnet"],"regex":["最新","直播","更新"]}
 ],
 "lives":[
-  {"name":"❤️自用","type":0,"playerType":1,"url":"./tv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://epg.112114.xyz/logo/{name}.png"},
+  {"name":"❤️自用","type":0,"playerType":1,"url":"https://gh.con.sh/https://raw.githubusercontent.com/helcddd/tvbox/main/tv.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://epg.112114.xyz/logo/{name}.png"},
 {"name":"SAO0","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"IPV6","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 ]
