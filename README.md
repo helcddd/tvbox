@@ -13,6 +13,6 @@ catvod.json
 ios用
 
 # alist
-https://om.sodaz.xyz/
+https://om.sodaz.xyz/ 
 https://a.sodaz.xyz/
 
