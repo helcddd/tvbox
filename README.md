@@ -14,6 +14,7 @@ catvod.json
 ios用
 
 # alist
+http://123.249.94.196:5678/
 https://om.sodaz.xyz/ 
 https://a.sodaz.xyz/
 http://pan.smjc.cc/
@@ -24,3 +25,4 @@ https://alist.shenzjd.com/
 https://al.chirmyram.com/
 https://pan.ecve.cn/dav
 http://shicheng.wang:555/
+
