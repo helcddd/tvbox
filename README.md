@@ -15,6 +15,12 @@ ios用
 
 # alist
 https://om.sodaz.xyz/ 
-
 https://a.sodaz.xyz/
-
+http://pan.smjc.cc/
+https://pan.bashroot.top/
+https://pan.jlbx.xyz/
+https://zi0.cc/
+https://alist.shenzjd.com/
+https://al.chirmyram.com/
+https://pan.ecve.cn/dav
+http://shicheng.wang:555/
