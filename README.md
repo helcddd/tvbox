@@ -11,3 +11,8 @@ catvod.json
 猫影视的配置源，需要搭配gitee使用
 新增了直播和小说、漫画
 ios用
+
+# alist
+https://om.sodaz.xyz/
+https://a.sodaz.xyz/
+
