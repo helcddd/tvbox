@@ -6,7 +6,8 @@ https://raw.gitmirror.com/helcddd/tvbox/main/candymuj1.json
 
 https://raw.gitmirror.com/helcddd/tvbox/main/ddd.json 
 
-releases下放了个内置源的FongMI版tvbox（内置源candymuj1.json）
+https://raw.kkgithub.com/liu673cn/box/main/m.json
+
 
 catvod.json
 猫影视的配置源，需要搭配gitee使用
