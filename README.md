@@ -8,6 +8,7 @@ https://raw.gitmirror.com/helcddd/tvbox/main/ddd.json
 
 https://raw.kkgithub.com/liu673cn/box/main/m.json
 
+https://raw.gitmirror.com/helcddd/box123/main/m.json
 
 catvod.json
 猫影视的配置源，需要搭配gitee使用
